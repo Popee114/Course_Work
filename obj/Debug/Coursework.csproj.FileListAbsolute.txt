@@ -1,0 +1,81 @@
+C:\Users\Павеля\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Павеля\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\Павеля\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.FormMain.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.FormForRegistration.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.Administration.resources
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.Administration.resources
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.FormForRegistration.resources
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.FormMain.resources
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.exe
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\bin\Debug\Coursework.exe
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.AOrders.resources
+C:\Users\Павеля\source\repos\Coursework — копия\Coursework\obj\Debug\Coursework.AWarehouse.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.AOrders.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.AWarehouse.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.User.resources
+C:\Users\Павеля\source\repos\Coursework\Coursework\obj\Debug\Coursework.Payment.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Павеля\source\repos\Coursework123\Coursework\bin\Debug\Coursework.exe
+C:\Users\Павеля\source\repos\Coursework123\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.Administration.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.AOrders.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.AWarehouse.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.FormForRegistration.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.FormMain.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.Payment.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.User.resources
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.exe
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Павеля\source\repos\Coursework123\Coursework\obj\Debug\Coursework.DeleteUser.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.ResolveComReference.cache
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.Administration.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.AOrders.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.AWarehouse.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.DeleteUser.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.FormForRegistration.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.FormMain.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.Payment.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.User.resources
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\gr372_kpa\Desktop\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Павеля\Desktop\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Павеля\Desktop\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\Павеля\Desktop\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.ResolveComReference.cache
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.Administration.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.AOrders.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.AWarehouse.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.DeleteUser.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.FormForRegistration.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.FormMain.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.Payment.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.User.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.MessAdmin.resources
+C:\Users\Павеля\Desktop\Coursework\Coursework\obj\Debug\Coursework.MessBuyer.resources
